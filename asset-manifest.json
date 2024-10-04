@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/String1010.github.io/WS101_react_landingpage/static/css/main.491a069f.chunk.css",
-    "main.js": "/String1010.github.io/WS101_react_landingpage/static/js/main.040b8c45.chunk.js",
-    "main.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/main.040b8c45.chunk.js.map",
-    "runtime~main.js": "/String1010.github.io/WS101_react_landingpage/static/js/runtime~main.3de1ab6e.js",
-    "runtime~main.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/runtime~main.3de1ab6e.js.map",
-    "static/css/2.7a65ff80.chunk.css": "/String1010.github.io/WS101_react_landingpage/static/css/2.7a65ff80.chunk.css",
-    "static/js/2.9d644780.chunk.js": "/String1010.github.io/WS101_react_landingpage/static/js/2.9d644780.chunk.js",
-    "static/js/2.9d644780.chunk.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/2.9d644780.chunk.js.map",
-    "static/js/3.31c88699.chunk.js": "/String1010.github.io/WS101_react_landingpage/static/js/3.31c88699.chunk.js",
-    "static/js/3.31c88699.chunk.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/3.31c88699.chunk.js.map",
-    "index.html": "/String1010.github.io/WS101_react_landingpage/index.html",
-    "precache-manifest.46bd41ab8a50e1270eae9ad0231d99c8.js": "/String1010.github.io/WS101_react_landingpage/precache-manifest.46bd41ab8a50e1270eae9ad0231d99c8.js",
-    "service-worker.js": "/String1010.github.io/WS101_react_landingpage/service-worker.js",
-    "static/css/2.7a65ff80.chunk.css.map": "/String1010.github.io/WS101_react_landingpage/static/css/2.7a65ff80.chunk.css.map",
-    "static/css/main.491a069f.chunk.css.map": "/String1010.github.io/WS101_react_landingpage/static/css/main.491a069f.chunk.css.map",
-    "static/media/all.min.css": "/String1010.github.io/WS101_react_landingpage/static/media/fa-v4compatibility.7c428138.woff2"
+    "main.css": "/WS101_react_landingpage/static/css/main.491a069f.chunk.css",
+    "main.js": "/WS101_react_landingpage/static/js/main.040b8c45.chunk.js",
+    "main.js.map": "/WS101_react_landingpage/static/js/main.040b8c45.chunk.js.map",
+    "runtime~main.js": "/WS101_react_landingpage/static/js/runtime~main.f5cd7b02.js",
+    "runtime~main.js.map": "/WS101_react_landingpage/static/js/runtime~main.f5cd7b02.js.map",
+    "static/css/2.e6abc7a9.chunk.css": "/WS101_react_landingpage/static/css/2.e6abc7a9.chunk.css",
+    "static/js/2.9d644780.chunk.js": "/WS101_react_landingpage/static/js/2.9d644780.chunk.js",
+    "static/js/2.9d644780.chunk.js.map": "/WS101_react_landingpage/static/js/2.9d644780.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/WS101_react_landingpage/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/WS101_react_landingpage/static/js/3.31c88699.chunk.js.map",
+    "index.html": "/WS101_react_landingpage/index.html",
+    "precache-manifest.aab1c2d9d25ca9f511667430410f2771.js": "/WS101_react_landingpage/precache-manifest.aab1c2d9d25ca9f511667430410f2771.js",
+    "service-worker.js": "/WS101_react_landingpage/service-worker.js",
+    "static/css/2.e6abc7a9.chunk.css.map": "/WS101_react_landingpage/static/css/2.e6abc7a9.chunk.css.map",
+    "static/css/main.491a069f.chunk.css.map": "/WS101_react_landingpage/static/css/main.491a069f.chunk.css.map",
+    "static/media/all.min.css": "/WS101_react_landingpage/static/media/fa-v4compatibility.7c428138.woff2"
   }
 }
