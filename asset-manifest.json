@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/ws101_react_landingpage/static/css/main.41f13ec2.css",
-    "main.js": "/ws101_react_landingpage/static/js/main.28b2ca71.js",
-    "static/js/453.ad6eb26e.chunk.js": "/ws101_react_landingpage/static/js/453.ad6eb26e.chunk.js",
-    "static/media/fa-solid-900.ttf": "/ws101_react_landingpage/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
-    "static/media/fa-brands-400.ttf": "/ws101_react_landingpage/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
-    "static/media/fa-solid-900.woff2": "/ws101_react_landingpage/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
-    "static/media/fa-brands-400.woff2": "/ws101_react_landingpage/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/fa-regular-400.ttf": "/ws101_react_landingpage/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
-    "static/media/fa-regular-400.woff2": "/ws101_react_landingpage/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
-    "static/media/fa-v4compatibility.ttf": "/ws101_react_landingpage/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
-    "static/media/fa-v4compatibility.woff2": "/ws101_react_landingpage/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
-    "index.html": "/ws101_react_landingpage/index.html",
-    "main.41f13ec2.css.map": "/ws101_react_landingpage/static/css/main.41f13ec2.css.map",
-    "main.28b2ca71.js.map": "/ws101_react_landingpage/static/js/main.28b2ca71.js.map",
-    "453.ad6eb26e.chunk.js.map": "/ws101_react_landingpage/static/js/453.ad6eb26e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.41f13ec2.css",
-    "static/js/main.28b2ca71.js"
-  ]
+    "main.css": "/String1010.github.io/WS101_react_landingpage/static/css/main.491a069f.chunk.css",
+    "main.js": "/String1010.github.io/WS101_react_landingpage/static/js/main.040b8c45.chunk.js",
+    "main.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/main.040b8c45.chunk.js.map",
+    "runtime~main.js": "/String1010.github.io/WS101_react_landingpage/static/js/runtime~main.3de1ab6e.js",
+    "runtime~main.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/runtime~main.3de1ab6e.js.map",
+    "static/css/2.7a65ff80.chunk.css": "/String1010.github.io/WS101_react_landingpage/static/css/2.7a65ff80.chunk.css",
+    "static/js/2.9d644780.chunk.js": "/String1010.github.io/WS101_react_landingpage/static/js/2.9d644780.chunk.js",
+    "static/js/2.9d644780.chunk.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/2.9d644780.chunk.js.map",
+    "static/js/3.31c88699.chunk.js": "/String1010.github.io/WS101_react_landingpage/static/js/3.31c88699.chunk.js",
+    "static/js/3.31c88699.chunk.js.map": "/String1010.github.io/WS101_react_landingpage/static/js/3.31c88699.chunk.js.map",
+    "index.html": "/String1010.github.io/WS101_react_landingpage/index.html",
+    "precache-manifest.46bd41ab8a50e1270eae9ad0231d99c8.js": "/String1010.github.io/WS101_react_landingpage/precache-manifest.46bd41ab8a50e1270eae9ad0231d99c8.js",
+    "service-worker.js": "/String1010.github.io/WS101_react_landingpage/service-worker.js",
+    "static/css/2.7a65ff80.chunk.css.map": "/String1010.github.io/WS101_react_landingpage/static/css/2.7a65ff80.chunk.css.map",
+    "static/css/main.491a069f.chunk.css.map": "/String1010.github.io/WS101_react_landingpage/static/css/main.491a069f.chunk.css.map",
+    "static/media/all.min.css": "/String1010.github.io/WS101_react_landingpage/static/media/fa-v4compatibility.7c428138.woff2"
+  }
 }
